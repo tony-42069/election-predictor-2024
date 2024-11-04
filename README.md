@@ -1,4 +1,4 @@
-# 2024 Election Predictor 🗳️
+# [2024 Election Predictor 🗳️](https://election-predictor-2024-ten.vercel.app/)
 
 A fun and interactive way to "predict" the 2024 US Presidential Election through random chance visualization. This project is built with Next.js, TypeScript, and Tailwind CSS.
 
@@ -32,7 +32,7 @@ A fun and interactive way to "predict" the 2024 US Presidential Election through
 
 ## 🚀 Try It Out
 
-Visit the live demo: [2024 Election Predictor](https://your-vercel-url-here.vercel.app)
+Visit the live demo: [2024 Election Predictor](https://election-predictor-2024-ten.vercel.app/)
 
 ## 🧑‍💻 Local Development
 
